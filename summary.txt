@@ -1,0 +1,20 @@
+File Analysis Summary for: file.txt 
+==================================================
+
+Total Lines: 5
+Even-numbered Lines: 2
+Odd-numbered Lines: 3
+Total Words: 42
+Average Words per Line: 8.40
+
+Even-numbered lines content:
+--------------------------------------------------
+A minute to smile and an hour to weep in,
+And never a laugh but the moans come double;
+
+
+Odd-numbered lines content:
+--------------------------------------------------
+A crust of bread and a corner to sleep in,
+A pint of joy to a peck of trouble,
+And that is life!
